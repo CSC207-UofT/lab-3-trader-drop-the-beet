@@ -97,6 +97,7 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+                new Dragon(),
                 new Slave("A man"),
                 new Slave("An another man"),
                 new Sheep(),
