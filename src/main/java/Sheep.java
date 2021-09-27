@@ -5,7 +5,7 @@ public class Sheep implements Domesticatable, Tradable {
 
     @Override
     public String sound() {
-        return "Hee-haw!";
+        return "Baa!";
     }
 
 
