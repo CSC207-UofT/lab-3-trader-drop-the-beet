@@ -97,9 +97,9 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
-                // TODO: Add Tradable objects here!
                 new Slave("A man"),
-                new Slave("An another man")
+                new Slave("An another man"),
+                new Slave("The third man")
 
         );
 
