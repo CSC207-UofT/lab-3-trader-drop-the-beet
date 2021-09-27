@@ -27,7 +27,7 @@ public class Donkey implements Drivable, Domesticatable, Tradable {
 
     @Override
     public int getPrice() {
-        return 6;
+        return 5;
     }
 
     @Override
