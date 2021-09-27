@@ -34,7 +34,7 @@ public class DragonTest {
 
     @Test(timeout = 50)
     public void TestGetPrice() {
-        assertEquals("jojo", d.getPrice());
+        assertEquals("114514", d.getPrice());
     }
 
 }
