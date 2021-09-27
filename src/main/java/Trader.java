@@ -97,10 +97,9 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
-                new Car(),
+                new Sheep(),
                 new Car(),
                 new Car()
-                // TO DO: Add Tradable objects here!
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
