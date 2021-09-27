@@ -99,8 +99,7 @@ public class Trader {
                 new Horse(),
                 new Slave("A man"),
                 new Slave("An another man"),
-                new Slave("The third man")
-
+                new Slave("the third man")
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
