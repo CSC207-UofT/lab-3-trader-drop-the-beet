@@ -100,9 +100,8 @@ public class Trader {
                 new Dragon(),
                 new Slave("A man"),
                 new Slave("An another man"),
-                new Sheep(),
-                new Car(),
-                new Car()
+                new Slave("the third man"),
+                new Slave("A woman")
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
