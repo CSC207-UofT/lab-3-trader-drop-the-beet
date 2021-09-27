@@ -7,7 +7,7 @@ public class Car implements Drivable, Domesticatable, Tradable {
         this.maxSpeed = 10;
     }
 
-// 我故意没写的method :)
+// 我故意没写的method :))))
 //    @Override
 //    public String sound() {
 //        return "Vroom!";
